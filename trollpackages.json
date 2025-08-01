@@ -46,6 +46,15 @@
       "section": "增强",
       "size": "72KB",
       "author": "XXX",
+      },
+      {
+    "name": "微信底栏动画",
+      "version": "v4.1",
+      "description": "给微信底栏图标添加点击动画与图片背景",
+      "dylib": "https://new667788.github.io/TrollFools/Dylib/com.junzai.dldh.deb",
+      "section": "微信",
+      "size": "88KB",
+      "author": "junzai",
     } 
   ]
 } 
