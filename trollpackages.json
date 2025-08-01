@@ -1,0 +1,51 @@
+{
+  "repository_name": "巨魔仓库",
+  "repository_icon": "https://new667788.github.io/TrollFools/icon.png",
+  "packages": [
+    {
+      "name": "微信圆角",
+      "version": "v1.8.6",
+      "description": "微信全局圆角。",
+      "dylib": "https://new667788.github.io/TrollFools/Dylib/WCYuanJiao.dylib",
+      "section": "微信",
+      "size": "3.12MB",
+      "author": "不知道",
+    },
+    {
+    "name": "一个大布丁",
+      "version": "v1.0.7",
+      "description": "对于某某圆角不需要输入激活码直接启用即可",
+      "dylib": "https://new667788.github.io/TrollFools/Dylib/xxhook.dylib",
+      "section": "微信",
+      "size": "429KB",
+      "author": "ikun聚集地",
+    },
+    {
+    "name": "顶栏元素",
+      "version": "v2.2",
+      "description": "微信顶栏设置",
+      "dylib": "https://new667788.github.io/TrollFools/Dylib/WCNicknameAvatarStyle.dylib",
+      "section": "微信",
+      "size": "531KB",
+      "author": "huami",
+     },
+     {
+    "name": "灵动方盒",
+      "version": "v1.0-5",
+      "description": "让微信焕发全新光彩，灵动方盒让你的微信有丰富多彩的体验",
+      "dylib": "https://new667788.github.io/TrollFools/Dylib/ColorfulCube.dylib",
+      "section": "微信",
+      "size": "5.8MB",
+      "author": "Colorfulcube",
+     },
+     {
+    "name": "版本标记",
+      "version": "v1.0",
+      "description": "在APP内显示应用图标/版本信息",
+      "dylib": "https://new667788.github.io/TrollFools/Dylib/VersionMark.dylib",
+      "section": "增强",
+      "size": "72KB",
+      "author": "XXX",
+    } 
+  ]
+} 
