@@ -55,6 +55,15 @@
       "section": "微信",
       "size": "88KB",
       "author": "junzai",
+      },
+      {
+    "name": "StayPro",
+      "version": "v1.0",
+      "description": "解锁Stay会员",
+      "dylib": "https://new667788.github.io/TrollFools/Dylib/StayPro.dylib",
+      "section": "增强",
+      "size": "166KB",
+      "author": "p佬",
     } 
   ]
 } 
